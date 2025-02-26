@@ -1,0 +1,8 @@
+discord
+asyncio
+mss
+browserhistory
+pyautogui
+pynput
+pycaw
+pywin32
