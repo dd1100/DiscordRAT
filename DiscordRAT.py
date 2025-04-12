@@ -560,3 +560,4 @@ async def on_message(message):
                 await message.channel.send("[!] Admin rights are required for this operation")
 
 client.run(token)
+
